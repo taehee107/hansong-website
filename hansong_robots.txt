@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://hansong-industry.netlify.app/sitemap.xml
