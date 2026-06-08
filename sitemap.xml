@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://hsid.kr/</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://hsid.kr/images/og-image.png</image:loc>
+      <image:title>SYNELA Textile Finishing Catalog 2026</image:title>
+      <image:caption>SYNELA — Premium Textile Finishing Agents by HANSONG INDUSTRY</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hsid.kr/images/logo.png</image:loc>
+      <image:title>HANSONG INDUSTRY Logo</image:title>
+    </image:image>
+  </url>
+</urlset>
