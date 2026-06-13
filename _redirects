@@ -1,0 +1,14 @@
+# Netlify redirect rules
+# Force all traffic to hsid.kr (canonical domain) with 301 permanent redirect.
+# The "!" at the end of status code forces the redirect even if the destination exists.
+
+# 1) Force netlify.app subdomain to hsid.kr
+https://hansong-industry.netlify.app/*    https://hsid.kr/:splat    301!
+http://hansong-industry.netlify.app/*     https://hsid.kr/:splat    301!
+
+# 2) Force http to https on hsid.kr
+http://hsid.kr/*                          https://hsid.kr/:splat    301!
+
+# 3) (Optional) If you also have www.hsid.kr, force to non-www
+http://www.hsid.kr/*                      https://hsid.kr/:splat    301!
+https://www.hsid.kr/*                     https://hsid.kr/:splat    301!
