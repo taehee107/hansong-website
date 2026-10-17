@@ -1,0 +1,75 @@
+# HANSONG INDUSTRY (한송인더스트리) — SYNELA™ textile finishing agents
+
+> HANSONG INDUSTRY CO., LTD. (한송인더스트리, Hansong Industry) is a South Korean B2B manufacturer of chemical preparations for textile finishing, founded in 1993 and based in Hwaseong-si, Gyeonggi-do. Its SYNELA™ brand covers polyester deepening agents, silicone softeners, print clarity enhancers, a ripple plisse agent, and pigment printing binders for polyester, cotton and blended fabrics.
+
+한송인더스트리(HANSONG INDUSTRY CO., LTD.)는 1993년 설립된 경기도 화성시 소재의 섬유 가공제 제조 기업으로, SYNELA™ 브랜드를 보유하고 있습니다.
+
+## Company
+
+- Legal name: HANSONG INDUSTRY CO., LTD. (한송인더스트리)
+- Founded: 1993
+- Address: 42, Cheongwonsandan 7-gil, Mado-myeon, Hwaseong-si, Gyeonggi-do, Republic of Korea 18543
+- Brand: SYNELA™ (acrylic emulsion, silicone softener and PU dispersion (PUD) lines)
+- Markets: polyester and cotton processors in China, Southeast Asia, India, the Middle East and beyond
+- Inquiries (product, sampling, technical support, OEM consulting): contact form only — https://forms.gle/iZksG91ZXAFECuNo6
+- Website: https://hsid.kr/ (Products: https://hsid.kr/#products, About: https://hsid.kr/#about, Contact: https://hsid.kr/#contact)
+
+## Products
+
+Product names use the format "SYNELA <CODE>". pH and solid content are as listed in the product catalog at https://hsid.kr/#products.
+
+### Polyester deepening agent (BLD series)
+
+Fully cationic deepening agent system for deep, tone-controlled black on polyester (Middle East abaya; India / Southeast Asia fabrics). Formal Black 2-step: acrylic tone build (A611 / A621 / A622), then silicone deepening (B810 for light weight ≤ 200 g/m², B820 for heavy weight ≥ 300 g/m²). Jet Black 1-step: C710. Do not mix with anionic auxiliaries.
+
+- SYNELA BLD-A611: Bluish Black — Blue-toned deep black. pH 5–6, solid 19–21%.
+- SYNELA BLD-A621: Reddish Black — Red-toned deep black. pH 5–6, solid 19–21%.
+- SYNELA BLD-A622: Reddish Black (redder) — More reddish than A621. pH 5–6, solid 19–21%.
+- SYNELA BLD-B810: Deep-Black Softener · Light Weight — Slip and smooth hand, light fabrics · Middle East abaya. pH 5–6, solid 29–31%.
+- SYNELA BLD-B820: Deep-Black Softener · Heavy Weight — Inner softness and drape, heavy fabrics · India / Southeast Asia. pH 5–6, solid 29–31%.
+- SYNELA BLD-C710: Jet-Black Deepening Agent — Depth lift and soft hand over dyed black · India / Southeast Asia. pH 5–6, solid 24–26%.
+
+### Antistatic agent
+
+- SYNELA AST-300: Antistatic Agent — Cationic antistatic finish for polyester · same-bath use with the BLD series. pH 3.5–4.5, solid 14–16%.
+
+### Thobe softener
+
+- SYNELA SFN-900: Silicone Softener — Superior soft touch, zero yellowing. pH 6.0–7.5, solid 30%.
+- SYNELA SFN-300: Fatty Acid Softener — Smooth hand feel, excellent fiber lubrication. pH 5.0–7.0, solid 10%.
+
+### Print clarity enhancement agent
+
+- SYNELA PCE-800: Acrylic Emulsion — High print-clarity enhancement effect. pH 5.5–6.5, solid 20%.
+- SYNELA SFN-500: Silicone Softener — Superior soft touch, low yellowing. pH 4.5–6.5, solid 30%.
+
+### Ripple plisse agent
+
+- SYNELA RPL-200: Ripple Plisse Agent — Excellent definition, high hardness. pH 6.0–7.5, solid 30–33%.
+
+### General printing binder and paste
+
+- SYNELA CSB-400: Clear Base Binder — Standard acrylic pigment printing binder. pH 7.0–8.0, solid 40%.
+- SYNELA CRB-400: Clear Rubber Binder — Acrylic binder with enhanced elongation. pH 7.0–8.0, solid 55±1%.
+- SYNELA WSB-100: White Binder — Acrylic binder with excellent whiteness. pH 7.5–9.0, solid 52–55%.
+- SYNELA WRB-394: White Rubber Binder — Excellent whiteness and elongation. pH 8.0–9.0, solid 66–68%.
+
+### Specialty effect printing binder
+
+- SYNELA PEL-220: Pearl Binder — Excellent workability and durability. pH 7.0–8.0, solid 40–42%.
+- SYNELA GLT-330: Glitter Binder — Excellent workability and durability. pH 7.0–8.0, solid 39–42%.
+- SYNELA GPD-929: Gold Powder Binder — Anti-rust; compatible with bronze powder. pH 6.5–8.0, solid 31–33%.
+- SYNELA PUF-181W: Puff Binder — Excellent expansion force and durability. pH 7.0–9.5, solid 60–62%.
+- SYNELA FOL-833: Foil Transfer Binder — Excellent foil adhesion. pH 6.0–8.0, solid 56–58%.
+- SYNELA RES-973: Resist Binder — High-whiteness binder for white resist printing. pH 7.0–8.0, solid 56–58%.
+- SYNELA DSC-100: Discharge Binder — Wet-heat process; high print clarity. pH 7.0–8.0, solid 22–24%.
+- SYNELA DSC-100W: Discharge White Binder — Wet-heat; high clarity and whiteness. pH 5.0–7.0, solid 26–28%.
+- SYNELA DSC-200: Discharge Binder — Dry-heat discharge process. pH 7.0–8.0, solid 34–36%.
+- SYNELA DSC-200W: Discharge White Binder — Dry-heat; clean white discharge. pH 5.0–7.0, solid 47–49%.
+
+In development: SYNELA BLD-D900, a waterborne PU (PUD) deep-black film for formal grades (sampling on request).
+
+## Optional
+
+- [Frequently asked questions](https://hsid.kr/#faq)
+- [Sitemap](https://hsid.kr/sitemap.xml)
